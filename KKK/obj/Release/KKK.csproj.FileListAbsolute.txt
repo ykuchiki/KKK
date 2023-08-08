@@ -1,0 +1,12 @@
+C:\Users\wonderkuu\Desktop\KKK\KKK\bin\Release\KKK.exe.config
+C:\Users\wonderkuu\Desktop\KKK\KKK\bin\Release\KKK.exe
+C:\Users\wonderkuu\Desktop\KKK\KKK\bin\Release\KKK.pdb
+C:\Users\wonderkuu\Desktop\KKK\KKK\obj\Release\KKK.Form1.resources
+C:\Users\wonderkuu\Desktop\KKK\KKK\obj\Release\KKK.Properties.Resources.resources
+C:\Users\wonderkuu\Desktop\KKK\KKK\obj\Release\KKK.csproj.GenerateResource.cache
+C:\Users\wonderkuu\Desktop\KKK\KKK\obj\Release\KKK.csproj.CoreCompileInputs.cache
+C:\Users\wonderkuu\Desktop\KKK\KKK\obj\Release\KKK.exe
+C:\Users\wonderkuu\Desktop\KKK\KKK\obj\Release\KKK.pdb
+C:\Users\wonderkuu\Desktop\KKK\KKK\obj\Release\KKK.csproj.AssemblyReference.cache
+C:\Users\wonderkuu\Desktop\KKK\KKK\obj\Release\KKK.csproj.SuggestedBindingRedirects.cache
+C:\Users\wonderkuu\Desktop\KKK\KKK\obj\Release\KKK.MEMO.Form2.resources
