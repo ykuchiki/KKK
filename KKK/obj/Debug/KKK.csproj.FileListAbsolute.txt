@@ -1,0 +1,26 @@
+C:\Users\wonderkuu\Desktop\KKK\KKK\bin\Debug\KKK.exe.config
+C:\Users\wonderkuu\Desktop\KKK\KKK\bin\Debug\KKK.exe
+C:\Users\wonderkuu\Desktop\KKK\KKK\bin\Debug\KKK.pdb
+C:\Users\wonderkuu\Desktop\KKK\KKK\obj\Debug\KKK.Properties.Resources.resources
+C:\Users\wonderkuu\Desktop\KKK\KKK\obj\Debug\KKK.csproj.GenerateResource.cache
+C:\Users\wonderkuu\Desktop\KKK\KKK\obj\Debug\KKK.csproj.CoreCompileInputs.cache
+C:\Users\wonderkuu\Desktop\KKK\KKK\obj\Debug\KKK.exe
+C:\Users\wonderkuu\Desktop\KKK\KKK\obj\Debug\KKK.pdb
+C:\Users\wonderkuu\Desktop\KKK\KKK\obj\Debug\KKK.Form1.resources
+C:\Users\wonderkuu\Desktop\KKK\KKK\obj\Debug\KKK.csproj.AssemblyReference.cache
+C:\Users\wonderkuu\Desktop\KKK\KKK\obj\Debug\KKK.csproj.SuggestedBindingRedirects.cache
+C:\Users\wonderkuu\Desktop\KKK\KKK\obj\Debug\KKK.MEMO.Form2.resources
+C:\Users\wonderkuu\Desktop\KKK\KKK\obj\Debug\KKK.MEMO.Form3.resources
+C:\Users\wonderkuu\Desktop\visual studio\KKK\KKK\bin\Debug\KKK.exe.config
+C:\Users\wonderkuu\Desktop\visual studio\KKK\KKK\bin\Debug\KKK.exe
+C:\Users\wonderkuu\Desktop\visual studio\KKK\KKK\bin\Debug\KKK.pdb
+C:\Users\wonderkuu\Desktop\visual studio\KKK\KKK\obj\Debug\KKK.csproj.AssemblyReference.cache
+C:\Users\wonderkuu\Desktop\visual studio\KKK\KKK\obj\Debug\KKK.csproj.SuggestedBindingRedirects.cache
+C:\Users\wonderkuu\Desktop\visual studio\KKK\KKK\obj\Debug\KKK.Form1.resources
+C:\Users\wonderkuu\Desktop\visual studio\KKK\KKK\obj\Debug\KKK.MEMO.Form2.resources
+C:\Users\wonderkuu\Desktop\visual studio\KKK\KKK\obj\Debug\KKK.MEMO.Form3.resources
+C:\Users\wonderkuu\Desktop\visual studio\KKK\KKK\obj\Debug\KKK.Properties.Resources.resources
+C:\Users\wonderkuu\Desktop\visual studio\KKK\KKK\obj\Debug\KKK.csproj.GenerateResource.cache
+C:\Users\wonderkuu\Desktop\visual studio\KKK\KKK\obj\Debug\KKK.csproj.CoreCompileInputs.cache
+C:\Users\wonderkuu\Desktop\visual studio\KKK\KKK\obj\Debug\KKK.exe
+C:\Users\wonderkuu\Desktop\visual studio\KKK\KKK\obj\Debug\KKK.pdb

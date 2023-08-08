@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <form_left>-421</form_left>
+  <form_top>18</form_top>
+  <form_width>405</form_width>
+  <fsfs>0</fsfs>
+  <form_height>318</form_height>
+  <memo_font_name>HGP創英角ﾎﾟｯﾌﾟ体</memo_font_name>
+  <memo_font_size>14.25</memo_font_size>
+  <memo_font_color>-1</memo_font_color>
+  <memo_font_style>Regular</memo_font_style>
+  <memo_back_color>-5410568</memo_back_color>
+  <memo_opacity>0.7</memo_opacity>
+</AppConfig>
